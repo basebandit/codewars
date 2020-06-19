@@ -7,7 +7,7 @@ It would help you also if you could write your own solution or contribute here a
 To run the bench marks alone. Use the following command:
 
 ```Go
-go test -run=^$ -cpu=1,2,4 -bench=. ./kata2
+go test -run=^$ -cpu=1,2,4 -bench=. ./kata1
 ```
 
 > Ensure your computer is idle before running any benchmarks for consistent repeated results.
