@@ -8,5 +8,5 @@ The input string will only consist of lower case letters and/or spaces.
 
 #### Example
 
-"abracadabra" -> 5 # `a appears 5 times`
+"abracadabra" -> 5 # `a appears 5 times`  
 "elephant" -> 3 # `e appears 2 times and a 1 time`
